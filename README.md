@@ -1,4 +1,4 @@
-# [COURSE] Ourl One — Lab [XX]: [Short Title]
+# Foundations of RL — Lab [XX]: [Short Title]
 
 ## Overview
 This lab focuses on **[core concept]**:
